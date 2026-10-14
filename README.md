@@ -37,4 +37,4 @@
 ## 🔗 4. LINK SẢN PHẨM & TÀI LIỆU
 - **Link Figma:** [https://www.figma.com/design/lne49tSAnA0c5XJk29kmcK/Untitled?node-id=0-1&t=fk22XHM45osb0fyH-1]
 - **Link GitHub Repository:** [https://github.com/Huythanh-07/CSE122-2551060690-StaffTaskBoard]
-- **Link Video Báo Cáo:** [Dán Link Video trình bày 3 phút vào đây]
+- **Link Video Báo Cáo:** [https://youtu.be/Ny2y6At-Haw]
